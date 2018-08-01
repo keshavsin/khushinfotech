@@ -56,7 +56,7 @@
                             <!--<p><i class="fa fa-map-marker" aria-hidden="true"></i> 44 New Design Street, rne 005</p>-->
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <!--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="header-top-right">
                             <ul>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -65,7 +65,7 @@
 										<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>							
                             </ul>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
@@ -93,7 +93,8 @@
                                             <li><a href="https://www.radiustheme.com/demo/html/auston/one-page/corporate/index.html">Home One Page 4</a></li>
                                         </ul>-->
                                     </li>
-                                    <li><a id="about" href="about.php">About</a>
+                                    <li>
+									<a id="about" href="khushi-infotech.php">About</a>
                                         <!--<ul>
                                             <li><a href="about.html">About 1</a></li>
                                             <li><a href="about2.html">About 2</a></li>
@@ -101,7 +102,8 @@
                                             <li><a href="about4.html">About 4</a></li>
                                         </ul>-->
                                     </li>
-                                    <li><a id="services" href="services.php">Services</a>
+                                    <li>
+									 <a id="services" href="software-training-services.php">Services</a>
                                         <!--<ul>
                                             <li><a href="services.html">Service 1</a></li>
                                             <li><a href="service2.html">Service 2</a></li>
@@ -109,7 +111,8 @@
                                             <li><a href="single-service.html">Single Service</a></li>
                                         </ul>-->
                                     </li>
-                                    <li><a id="our_work" href="our_work.php">Our Platform</a>
+                                    <li>
+									<a id="our_work" href="software-platforms.php">Our Platform</a>
                                         <!--<ul>
                                             <li><a href="team.html">Team 1</a></li>
                                             <li><a href="team2.html">Team 2</a></li>
@@ -118,7 +121,8 @@
                                             <li><a href="single-team.html">Single Team</a></li>
                                         </ul>-->
                                     </li>
-                                    <li><a href="Portfolio.php">Projects</a>
+                                    <li>
+									<a href="idea-software.php">Projects</a>
                                         <!--<ul>
                                             <li><a href="portfolio.html">Portfolio 1</a></li>
                                             <li><a href="portfolio2.html">Portfolio 2</a></li>
@@ -167,7 +171,7 @@
                                             </li>
                                         </ul>
                                     </li>-->
-                                    <li><a id="contact" href="contact.php">Contact</a></li>
+                                    <li><a id="contact" href="khushi-infotech-contact.php">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -200,7 +204,8 @@
                                             <li><a href="https://www.radiustheme.com/demo/html/auston/one-page/corporate/index.html">Home One Page 4</a></li>
                                         </ul>-->
                                     </li>
-                                    <li><a id="about" href="about.php">About</a>
+                                    <li>
+									<a id="about" href="khushi-infotech.php">About</a>
                                        <!-- <ul>
                                             <li><a href="about.html">About 1</a></li>
                                             <li><a href="about2.html">About 2</a></li>
@@ -208,7 +213,8 @@
                                             <li><a href="about4.html">About 4</a></li>
                                         </ul>-->
                                     </li>
-                                    <li><a id="services" href="services.php">Services</a>
+                                    <li>
+									<a id="services" href="software-training-services.php">Services</a>
                                        <!-- <ul>
                                             <li><a href="services.html">Service 1</a></li>
                                             <li><a href="service2.html">Service 2</a></li>
@@ -234,13 +240,15 @@
                                             <li><a href="single-portfolio.html">Single Portfolio</a></li>
                                         </ul>-->
                                     </li>
-                                    <li><a id="our_work" href="our_work.php">Our Platform</a></li>
+                                    <li>
+									 <a id="our_work" href="software-platforms.php">Our Platform</a>
+									</li>
                                        <!-- <ul>
                                             <li><a href="news.html">News</a></li>
                                             <li><a href="single-news.html">Single News</a></li>
                                         </ul>-->
                                     
-                                    <li><a href="Portfolio.php">Projects</a>
+                                    <li><a href="idea-software.php">Projects</a>
                                        <!-- <ul class="mega-menu-area">
                                             <li class="single-mega-menu">
                                                 <a href="index.html">Home Page 1</a>
@@ -274,7 +282,7 @@
                                             </li>
                                         </ul>-->
                                     </li>
-                                    <li><a id="contact" href="contact.php">Contact</a></li>
+                                    <li><a id="contact" href="khushi-infotech-contact.php">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>

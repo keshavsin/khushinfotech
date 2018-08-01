@@ -14,11 +14,11 @@
                             <h3>Quick Links</h3>
                             <nav>
                                 <ul>
-                                    <li><a href="about.php">About</a></li>
-                                    <li><a href="services.php">Services</a></li>
-									<li><a href="our_work.php">Our Platform</a></li>
-                                    <li><a href="portfolio.php">Projects</a></li>
-									<li><a href="contact.php">Contact</a></li>
+                                    <li><a href="khushi-infotech.php">About</a></li>
+                                    <li><a href="software-training-services.php">Services</a></li>
+									<li><a href="software-platforms.php">Our Platform</a></li>
+                                    <li><a href="idea-software.php">Projects</a></li>
+									<li><a href="khushi-infotech-contact.php">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -28,12 +28,12 @@
                             <h3>Quick Services</h3>
                             <nav>
                                 <ul>
-                                    <li><a href="services.php">IT Services & Training</a></li>
-                                    <li><a href="services.php">Web Development</a></li>
-									<li><a href="services.php">IT Products</a></li>
-                                    <li><a href="services.php">IT Consulting</a></li>
-									<li><a href="services.php">Corporate Training</a></li>
-									<li><a href="services.php">Software Development</a></li>
+                                    <li><a href="software-training-services.php">IT Services & Training</a></li>
+                                    <li><a href="software-training-services.php">Web Development</a></li>
+									<li><a href="software-training-services.php">IT Products</a></li>
+                                    <li><a href="software-training-services.php">IT Consulting</a></li>
+									<li><a href="software-training-services.php">Corporate Training</a></li>
+									<li><a href="software-training-services.php">Software Development</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -81,12 +81,12 @@
                                     <li><i class="fa fa-envelope-o" aria-hidden="true"></i> keshavsin@khushinfotech.com</li>
                                     <!--<li><i class="fa fa-fax" aria-hidden="true"></i> Fax: (123) 118 9999</li>-->
 									<div class="footer-social-media">
-									<ul id="fnav">
+									<!--<ul id="fnav">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 										<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-									</ul>
+									</ul>-->
 									</div>
                                 </ul>
                             </nav>
@@ -103,7 +103,7 @@
                             <p>Copyright © 2018 Khushi-Infotech | All Rights Reserved.</p>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                     <!--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 					<p class="bottom">
                     Created By : <a href="http://www.mindstuff.in/" target="_blank"><span style="color:red">Mind</span><span style="color:#0099cc">stuff</span> <span style="color:#CBC8C2">Innovations</span></a>
 					</p>
@@ -155,12 +155,12 @@
     <!-- main js -->
     <script src="js/main.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1cZtqidvg0m-f8Hd3S6RHx1mY-omuLS4"></script>
-<script>
+	<script>
             function initialize() {
                 var mapOptions = {
                     zoom: 15,
                     scrollwheel: false,
-                    center: new google.maps.LatLng(13.0209182, 77.5881225),
+                    center: new google.maps.LatLng(13.0344493, 77.57601769999997),
                 };
 
                 var map = new google.maps.Map(document.getElementById('googleMap'),
@@ -177,9 +177,7 @@
             }
 
             google.maps.event.addDomListener(window, 'load', initialize);
-		</script>
-		
-
+	</script>
 	<script src="js/circleChart.min.js"></script>		
 		<script>
         $(".circleChart#1").circleChart({
@@ -233,10 +231,5 @@
             });
         }, 4000);
     </script>
-	
-	
 </body>
-
-
-<!-- Mirrored from www.radiustheme.com/demo/html/auston/multi-page/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 May 2018 06:27:50 GMT -->
 </html>
