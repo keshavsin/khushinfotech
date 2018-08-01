@@ -148,7 +148,7 @@
                         <div class="portfolio2-overley">
                             <div class="content">
                                 <h3><a href="#">Python Development</a></h3>
-                                <p class="text-align:justify;">We do Python application development  and its flavours.</p>
+                                <p class="text-align:justify;">We do Python application development with its different flavours.</p>
                             </div>
                         </div>
                     </div>
