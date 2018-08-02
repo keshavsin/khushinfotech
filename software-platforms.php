@@ -14,7 +14,7 @@
                 <div class="header-banner">
                     <h1>Our Platform</h1>
                     <ul>
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>/ Our Platform</li>
                     </ul>
                 </div>
@@ -148,7 +148,7 @@
                         <div class="portfolio2-overley">
                             <div class="content">
                                 <h3><a href="#">Python Development</a></h3>
-                                <p class="text-align:justify;">We do Python application development with its different flavours.</p>
+                                <p class="text-align:justify;">We do Python application development  and its flavours.</p>
                             </div>
                         </div>
                     </div>

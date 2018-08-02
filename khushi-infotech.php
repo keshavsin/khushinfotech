@@ -21,7 +21,7 @@
                 <div class="header-banner">
                     <h1>About</h1>
                     <ul>
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>/ About</li>
                     </ul>
                 </div>
@@ -32,8 +32,13 @@
     <!-- About Page2 Inner Section Start Here -->
     <div class="about-inner-page2-area">
         <div class="container">
-		<h2 class="text-center">ABOUT US</h2>
-			<p class="text-center">Khushi Infotech provide software solutions which are cost effective and scalable especially where the conventional</br> readily available packages do not fulfill the specific business requirements.</p>
+		<div class="row">
+                <div class="section-styling-area">
+                    <h2>ABOUT US</h2>
+                    <p class="icon-border"><i class="fa fa-clone" aria-hidden="true"></i></p>
+                    <p class="section-text">Khushi Infotech provide software solutions which are cost effective and scalable especially where the conventional</br> readily available packages do not fulfill the specific business requirements.</p>
+                </div>
+            </div>	
             <div class="row">
                 <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <div class="about-us-content">

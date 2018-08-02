@@ -12,7 +12,7 @@
                 <div class="header-banner">
                     <h1>Projects</h1>
                     <ul>
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>/ Projects</li>
                     </ul>
                 </div>
@@ -21,8 +21,13 @@
     </div>
     <div class="homepage-news-area" id="news">
         <div class="container">
-		<h2 class="text-center">OUR PROJECTS</h2>
-		<p class="text-center">We provide solutions to enterprises in distress and help with the technology implementation for other,non-tech,startups.</br>We believe in delivering high quality,on-time projects </p>
+		<div class="row">
+                <div class="section-styling-area">
+                    <h2>OUR PROJECTS</h2>
+                    <p class="icon-border"><i class="fa fa-clone" aria-hidden="true"></i></p>
+                    <p class="section-text">We provide solutions to enterprises in distress and help with the technology implementation for other,non-tech,startups.</br>We believe in delivering high quality,on-time projects.</p>
+                </div>
+            </div>		
             <div class="row">
                 <div class="homepage-new">                    
                     <div class="rc-carousel homepage-total-news-area" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-autoplay-timeout="10000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="2" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="3" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="3" data-r-medium-nav="true" data-r-medium-dots="false">
