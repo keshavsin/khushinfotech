@@ -155,42 +155,33 @@
                 </div>
         </div>
     </div>
+	<br>
+	<br>
+	<br>
     <!-- Portfolio Four Section Area End Here -->
     <!-- Partner Logo Area Start Here -->
-    <div class="client-logo-area">
+    <!--<div class="client-logo-area">
         <div class="container">
-		<h2>Our clients & Partners</h2>
+		<h2 class="text-center">Our Clients & Partners</h2>
             <div class="rc-carousel client-logo" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-autoplay-timeout="10000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="3" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="3" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="5" data-r-medium-nav="true" data-r-medium-dots="false">
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/1.jpg" alt=""></a>
+                    <a href="http://mindstuff.in/" target="_blank"><img src="img/client/1.jpg" alt="mindstuff.in"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/2.jpg" alt=""></a>
+                    <a href="http://samiteon.com/" target="_blank"><img src="img/client/2.jpg" alt="samiteon.com/"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/3.jpg" alt=""></a>
+                   <a href="http://www.g4kindia.com/" target="_blank"><img src="img/client/3.jpg" alt="g4kindia.com"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/4.jpg" alt=""></a>
+                    <a href="http://www.harshayoga.com" target="_blank"><img src="img/client/4.jpg" alt="www.harshayoga.com"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/5.jpg" alt=""></a>
+                   <a href="http://www.thinknsolutions.com/" target="_blank"><img src="img/client/5.jpg" alt="thinknsolutions.com"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/6.jpg" alt=""></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/client/7.jpg" alt=""></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/client/1.jpg" alt=""></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/client/2.jpg" alt=""></a>
-                </div>
-                <div class="single-logo">
-                    <a href="#"><img src="img/client/3.jpg" alt=""></a>
-                </div>
+                    <a href="http://www.standardbookcompany.com" target="_blank"><img src="img/client/6.jpg" alt="www.standardbookcompany.com"></a>
+                </div>                
             </div>
         </div>
     </div>
