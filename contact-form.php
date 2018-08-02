@@ -49,8 +49,7 @@ if($_POST)
 				<td width="70%">'.$_POST["content"].'</td>
 			</tr>
 			
-			</table>
-		';
+			</table>';
  
 		require 'class/class.phpmailer.php';
 		$mail = new PHPMailer;
