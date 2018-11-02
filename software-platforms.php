@@ -2,7 +2,7 @@
 
 <style>
 	.header-banner-area {   
-    background: url(img/header/work.jpg) no-repeat !important;
+    background: url(img/header/khushi-software-development.jpg) no-repeat !important;
 
 }
 	</style>
@@ -80,7 +80,7 @@
                         <div class="portfolio2-overley">
                             <div class="content">
                                 <h3><a href="#">Internet Of Things</a></h3>
-                                <p class="text-align:justify;">We offers IoT Application Development services </p>
+                                <p class="text-align:justify;">We offer IoT Application Development services with Python</p>
                             </div>
                         </div>
                     </div>

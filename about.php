@@ -6,7 +6,7 @@
     </script>
 	<style>
 	.header-banner-area {   
-    background: url(img/header/about.jpg) no-repeat !important;
+    background: url(img/header/about-khushi-infotech.jpg) no-repeat !important;
 
 }
 	</style>
@@ -33,7 +33,7 @@
     <div class="about-inner-page2-area">
         <div class="container">
 		<h2 class="text-center">ABOUT US</h2>
-			<p class="text-center">Khushi Infotech provide software solutions which are cost effective and scalable especially where the conventional</br> readily available packages do not fulfill the specific business requirements.</p>
+			<p class="text-center"><span style="font-weight: 600;color:#47c500;">Khushi</span> <span style="font-weight: 600;color:#8e8e8e;">Infotech</span> provide software solutions which are cost effective and scalable especially where the conventional</br> readily available packages do not fulfill the specific business requirements.</p>
             <div class="row">
                 <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <div class="about-us-content">
@@ -47,9 +47,10 @@
 									<li><i class="fa fa-check"></i> Adaptability is essential for businesses to thrive in this environment.</li>									
 									<li><i class="fa fa-check"></i> All business lean towards User Experience & Customer Experience to expedite digital conversions and revenue.</li>
 									<li><i class="fa fa-check"></i> Virtually changing ways of doing businesses with digital MARKETINGstrategies.</li>
-									<li><i class="fa fa-check"></i> People interact with each other,media reaches the masses.</li>
+									<li><i class="fa fa-check"></i> People interact with each other, media reaches the masses.</li>
 									<li><i class="fa fa-check"></i> Internet basics, including the basis for the World wide related information.</li>
 								<ul>
+								<span style="color:#47c500;"><i>We adapt to changing markets and trends.</i></span>
                             </div>
                         </div>
                     </div>
@@ -77,11 +78,12 @@
                                 <p>Mobile usage has dominated access to the web for quite some time and web developers responded by creating responsive web pages. </p>
                                 <ul>
 									<li><i class="fa fa-check"></i> Future markets will revolve around handy gadgets including mobile phones, tablets, and similar wearable gadgets.</li>
-									<li><i class="fa fa-check"></i> Access to data on mobile applications is at the heart of success in today"s world</li>
+									<li><i class="fa fa-check"></i> Access to data on mobile applications is at the heart of success in today&quot;s world</li>
 									<li><i class="fa fa-check"></i> Mobile approach will release a whole new direction for customers and naturally compliments to the way the system works.</li>
 									<li><i class="fa fa-check"></i> Mobile application were originally offered for general productivity and information retrieval.</li>
-									<li><i class="fa fa-check"></i> Good design is obvious,great design is transparent.</li>
+									<li><i class="fa fa-check"></i> Good design is obvious, Great design is transparent.</li>
 								<ul>
+								<span style="color:#47c500;"><i>For going mobile, please get in touch for your digital needs.</i></span>
                             </div>
                         </div>
                     </div>

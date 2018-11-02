@@ -6,7 +6,7 @@
     </script>
 	<style>
 	.header-banner-area {   
-    background: url(img/header/about.jpg) no-repeat !important;
+    background: url(img/header/khushi-software-services.jpg) no-repeat !important;
 
 }
 	</style>
@@ -36,7 +36,7 @@
                 <div class="section-styling-area">
                     <h2>ABOUT US</h2>
                     <p class="icon-border"><i class="fa fa-clone" aria-hidden="true"></i></p>
-                    <p class="section-text">Khushi Infotech provide software solutions which are cost effective and scalable especially where the conventional</br> readily available packages do not fulfill the specific business requirements.</p>
+                    <p class="section-text"><span style="font-weight: 600;color:#47c500;">Khushi</span> <span style="font-weight: 600;color:#8e8e8e;">Infotech</span> provides software solutions which are cost effective and scalable especially where the conventional</br> readily available packages do not fulfill the specific business requirements.</p>
                 </div>
             </div>	
             <div class="row">
@@ -52,9 +52,10 @@
 									<li><i class="fa fa-check"></i> Adaptability is essential for businesses to thrive in this environment.</li>									
 									<li><i class="fa fa-check"></i> All business lean towards Customer Experience to expedite digital conversions and revenue.</li>
 									<li><i class="fa fa-check"></i> Virtually changing ways of doing businesses with Digital Marketing strategies.</li>
-									<li><i class="fa fa-check"></i> People interact with each other,media reaches the masses.</li>
+									<li><i class="fa fa-check"></i> People interact with each other, media reaches the masses.</li>
 									<li><i class="fa fa-check"></i> Internet basics, including the basis for the World wide related information.</li>
 								<ul>
+								<span style="color:#47c500;"><i>We adapt to changing markets and trends.</i></span>
                             </div>
                         </div>
                     </div>
@@ -82,11 +83,12 @@
                                 <p>Mobile usage has dominated access to the web for quite some time and web developers responded by creating responsive web pages. </p>
                                 <ul>
 									<li><i class="fa fa-check"></i> Future markets will revolve around handy gadgets including mobile phones, tablets, and similar wearable gadgets.</li>
-									<li><i class="fa fa-check"></i> Access to data on mobile applications is at the heart of success in today's world</li>
+									<li><i class="fa fa-check"></i> Access to data on mobile applications is at the heart of success in today&quot;s world</li>
 									<li><i class="fa fa-check"></i> Mobile approach will release a whole new direction for customers and naturally compliments to the way the system works.</li>
 									<li><i class="fa fa-check"></i> Mobile application were originally offered for general productivity and information retrieval.</li>
-									<li><i class="fa fa-check"></i> Good design is obvious,great design is transparent.</li>
+									<li><i class="fa fa-check"></i> Good design is obvious, Great design is transparent.</li>
 								<ul>
+								<span style="color:#47c500;"><i>For going mobile, please get in touch for your digital needs.</i></span>
                             </div>
                         </div>
                     </div>
@@ -217,22 +219,22 @@
 		<h2 class="text-center">Our Clients & Partners</h2>
             <div class="rc-carousel client-logo" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-autoplay-timeout="10000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="3" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="3" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="5" data-r-medium-nav="true" data-r-medium-dots="false">
                 <div class="single-logo">
-                    <a href="http://mindstuff.in/" target="_blank"><img src="img/client/1.jpg" alt="mindstuff.in"></a>
+                    <a href="https://lmats.com.au" target="_blank"><img src="img/client/1.png"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="http://samiteon.com/" target="_blank"><img src="img/client/2.jpg" alt="samiteon.com/"></a>
+                    <a href="http://www.samiteon.com/" target="_blank"><img src="img/client/2.jpg"></a>
                 </div>
                 <div class="single-logo">
-                   <a href="http://www.g4kindia.com/" target="_blank"><img src="img/client/3.jpg" alt="g4kindia.com"></a>
+                   <a href="http://www.harshayoga.com/" target="_blank"><img src="img/client/3.jpg"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="http://www.harshayoga.com" target="_blank"><img src="img/client/4.jpg" alt="www.harshayoga.com"></a>
+                    <a href="http://mindstuff.in/" target="_blank"><img src="img/client/4.jpg"></a>
                 </div>
                 <div class="single-logo">
-                   <a href="http://www.thinknsolutions.com/" target="_blank"><img src="img/client/5.jpg" alt="thinknsolutions.com"></a>
+                   <a href="http://www.thinknsolutions.com/" target="_blank"><img src="img/client/5.jpg"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="http://www.standardbookcompany.com" target="_blank"><img src="img/client/6.jpg" alt="www.standardbookcompany.com"></a>
+                    <a href="http://www.standardbookcompany.com" target="_blank"><img src="img/client/6.jpg"></a>
                 </div>                
             </div>
         </div>

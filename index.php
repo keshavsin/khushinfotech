@@ -141,7 +141,7 @@
                     <div class="title-container s-tb-c title-compress">
                         <div class="medium-text">We engineer</div>
                         <div class="title1">Specialize services in</div>
-                        <p style="font-size:16px;"><a href="software-training-services.php"> IT Services & Training </a>|<a href="software-training-services.php"> IT Consulting </a>|<a href="software-training-services.php"> Software Development </a>|<a href="software-training-services.php"> Corporate Training </a></p>
+                        <p style="font-size:16px;"><a href="software-training-services.php"> Software Development </a>|<a href="software-training-services.php"> IT Consulting </a>|<a href="software-training-services.php">  IT Services & Training </a>|<a href="software-training-services.php"> Corporate Training </a></p>
                         <div class="read-more">
                             <ul>
                                 <li><a href="khushi-infotech.php">Read More <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a></li>
@@ -157,7 +157,7 @@
                     <div class="title-container s-tb-c title-compress">
                         <div class="medium-text">Changing the world</div>
                         <div class="title1">Through Technology</div>
-                        <p style="font-size:16px;">We are always ready to fulfill all your specific requirements which involves different dimensions in a project,</br> development, testing, deploymen, mainatenance and support of existing or new products.</p>
+                        <p style="font-size:16px;">We are always ready to fulfill all your specific custom requirements which involves different dimensions in a project,</br> development, testing, deployment, maintenance and support of existing or new products.</p>
                         <div class="read-more">
                             <ul>
                                 <li><a href="khushi-infotech.php">Read More <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a></li>
@@ -187,27 +187,27 @@
 				
                 <div class="rc-carousel total-business" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-autoplay-timeout="10000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="2" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="2" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="3" data-r-medium-nav="true" data-r-medium-dots="false">
                     <div class="single-business">
-                        <span><i class="fa fa-desktop"></i></span>
-                        <h3><a href="#">IT Services & Training</a></h3>
-                        <p>Our Infra-structure service helps design, build and manage a highly flexible, scalable and reliable IT product.</p>
-                        <div class="read-more"><a href="software-training-services.php">Read More</a></div>
-                    </div>
-                    <div class="single-business">
                         <span><i class="fa fa-globe"></i></span>
                         <h3><a href="#">Web Development</a></h3>
                         <p>Open source platforms and content management systems are great tools that helps us to build dynamic websites with variety of features.</p>
                         <div class="read-more"><a href="software-training-services.php">Read More</a></div>
-                    </div>
+                    </div> 
                     <div class="single-business">
                         <span><i class="fa fa-tasks"></i></span>
                         <h3><a href="#">IT Products</a></h3>
-                        <p>Expertise on leading software development platforms like Java, PHP, NodeJS, to deliver enterprise and business software for business solutions.</p>
+                        <p>Expertise on leading software development platforms like Java, PHP, NodeJS, Android, iOS, etc. to deliver enterprise and business software for business solutions.</p>
                         <div class="read-more"><a href="software-training-services.php">Read More</a></div>
                     </div>
                     <div class="single-business">
                        <span><i class="fa fa-th-large"></i></span>
                         <h3><a href="#">Software Development</a></h3>
                         <p>Our Infra-structure service helps design, build and manage a highly flexible, scalable and reliable IT product.</p>
+                        <div class="read-more"><a href="software-training-services.php">Read More</a></div>
+                    </div>
+					<div class="single-business">
+                        <span><i class="fa fa-desktop"></i></span>
+                        <h3><a href="#">IT Services & Training</a></h3>
+                        <p>Knowing that the greatest asset of a company being the resources in any software firms. We have the talent to build resources at every level of a product/application life cycle and we are rarely dependent on resources from the market. With a strong technical and training background we mentor not only resources from Khushi Infotech, we do handle  resources from other organizations based on requests from selected organizations. </p>
                         <div class="read-more"><a href="software-training-services.php">Read More</a></div>
                     </div>
                 </div>
@@ -223,29 +223,27 @@
 		<h2>Our Clients & Partners</h2>
             <div class="rc-carousel client-logo" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-autoplay-timeout="10000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="3" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="3" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="5" data-r-medium-nav="true" data-r-medium-dots="false">
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/1.jpg" alt=""></a>
+                    <a href="#"><img src="img/client/1.png" alt="Custom product development"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/2.jpg" alt=""></a>
+                    <a href="#"><img src="img/client/2.jpg" alt="Offshore development"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/3.jpg" alt=""></a>
+                    <a href="#"><img src="img/client/3.jpg" alt="Web development with payment integration"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/4.jpg" alt=""></a>
+                    <a href="#"><img src="img/client/4.jpg" alt="Partner development for UI"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/5.jpg" alt=""></a>
+                    <a href="#"><img src="img/client/5.jpg" alt="Partner development"></a>
                 </div>
                 <div class="single-logo">
-                    <a href="#"><img src="img/client/6.jpg" alt=""></a>
+                    <a href="#"><img src="img/client/6.jpg" alt="Custom Product for Journal Management"></a>
                 </div>                              
             </div>
         </div>
     </div>
     <!-- Partner Logo Area End Here -->
-	
-	
 	
     <!-- Home page About Us Area Section Start Here -->
     <div class="homepage-about-us-area">
@@ -254,7 +252,7 @@
                 <div class="homepage-about-us">
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 acurate">
                         <div class="about-us-feature-image">
-                            <a href="#"><img src="img/11.png" alt=""></a>
+                            <a href="#"><img src="img/khushi-software-services.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 acurate">
@@ -277,7 +275,7 @@
                                                 <span class="flaticon-graph"></span>
                                             </a>
                                             <div class="media-body">
-                                                <h3 class="media-heading"><a href="#">Skilled Profesionals</a></h3>
+                                                <h3 class="media-heading"><a href="#">Skilled Professionals</a></h3>
                                                 <p>Our company has a team of highly productive and efficient developers. All the professionals have experience of building many applications.</p>
                                             </div>
                                         </div>
@@ -507,52 +505,56 @@
                                 </div>
                                 <div id="collapseOne" class="panel-collapse collapse in">
                                     <div class="panel-body">
-                                       Most of the corporate trainings are done with a slide show which we do not believe in. We deal with concept and an example, we prepare them for future trainings for giving them a strong base. It is not just about training technical, about the role individual plays in a company.
+                                       Most of the corporate training are done with a slide show which we do not believe in. We deal with concept and an example, we prepare them for future training by giving them a strong base. It is not just about training technical, about the role individual plays in a company.
+									   What you HEAR, you might forget !! 
+									   What you SEE, you might remember !!
+									   What you DO, you NEVER FORGET!!
                                     </div>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                       02.  Technical Training
-                      </a>
-                    </h4>
+									  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+									   02.  Technical Training
+									  </a>
+									</h4>
                                 </div>
                                 <div id="collapseTwo" class="panel-collapse collapse">
                                     <div class="panel-body">
-
-To overcome this, you need to make sure that you master one language and rest should be a reference. What is that which changes between different languages, it is just the syntax and the environment.
-We provide, on the job technical training, we refer to it as industry training which is a span of three months for freshers and also laterals who are need to upgrade themselves to new technologies. Our trainings are not class room based trainings.
+										We prepare engineers who are not specifically prepared to work on one language and one domain. Master one language and rest should be a reference. We imbibe in our engineers that change between different languages is just the syntax and the environment and also a passion for learning.
+										We provide, on the job technical training, we refer to it as industry training for a span of three months with end to end involvement in software development life cycles. Our trainings are not class room based trainings.
                                     </div>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                        03.  Process Training 
-                      </a>
-                    </h4>
+									  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+										03.  Process Training 
+									  </a>
+									</h4>
                                 </div>
                                 <div id="collapseThree" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       Being technical is alone not enough for you to be a software engineer, however smart, should be a part of the team/game. If everyone follows their own process, you can guess the outcome of the product under development.
+                                       Being technical is alone not enough for you to be a software engineer, however smart, should be a part of the team/game. If everyone follows their own process, you can guess the outcome of the product under development. 
+									   We follow continuous integration, continuous build and deployment process
+									   We do follow agile methologies for deliverables.
                                     </div>
                                 </div>
                             </div>
 							  <div class="panel panel-default">
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
-                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-                        04.  Domain Training 
-                      </a>
-                    </h4>
+									  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+										04.  Domain Training 
+									  </a>
+									</h4>
                                 </div>
                                 <div id="collapseFour" class="panel-collapse collapse">
                                     <div class="panel-body">
                                       Training is an important part of an organization, with the emerging or evolving technologies we need to keep the pace to be in the competitive world and frequently know which domain best suits for which product.
-									When we talk about products, product is designed based on the domain on which the business is running. If trainees aren't aware of the domain, they will miss visualizing the outcome of the product which in turn will affects efficiency in development. One who involves developing a product should also be a subject matter expert (SME) for that domain for which the product is being developed. The difference in the output of being a domain expert or a subject matter expert is observed in the quality of the development.
+									When we talk about products, product is designed based on the domain on which the business is running. If trainees aren't aware of the domain, they will miss visualizing the outcome of the product which in turn affects efficiency in development. One who involves developing a product should also be a subject matter expert (SME) for that domain for which the product is being developed. The difference in the output of being a domain expert or a subject matter expert is observed in the quality of the product under development.
                                     </div>
                                 </div>
                             </div>
@@ -674,8 +676,8 @@ We provide, on the job technical training, we refer to it as industry training w
                             <div class="media-body">
                                 <h3 class="media-heading"><a href="Javascript:;">Dr. Vinod Dham. / <span> Director</span></a></h3>
                                 <p>Absolutely Brilliant, once again thanks for your exceptional response.
-I wish every company I dealt with were as professional as yourselves.
-I will certainly stay in touch.</p>
+									I wish every company I dealt with were as professional as yourselves.
+									I will certainly stay in touch.</p>
                             </div>
                         </div>
                     </div>

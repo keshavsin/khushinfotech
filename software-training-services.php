@@ -1,7 +1,7 @@
 <?php include 'headerInside.php'; ?>
 <style>
 	.header-banner-area {   
-    background: url(img/header/services.jpg) no-repeat !important;
+    background: url(img/header/khushi-software-services.jpg) no-repeat !important;
 
 }
 	</style>
@@ -28,7 +28,7 @@
                 <div class="section-styling-area">
                     <h2>OUR SERVICE</h2>
                     <p class="icon-border"><i class="fa fa-clone" aria-hidden="true"></i></p>
-                    <p class="section-text">Our company is also expertised in all kind of web based solution such as website designing, website development and</br> custom built web applications that serve and fulfill the customer’s requirement.</p>
+                    <p class="section-text"><span style="font-weight: 600;color:#47c500;">Khushi</span> <span style="font-weight: 600;color:#8e8e8e;">Infotech</span> is expertised in all kind of web based solution such as website designing, website development and</br> custom built web applications that serve and fulfill the customer&quot;s requirement.</p>
                 </div>
             </div>		
             <div class="row">
@@ -54,7 +54,7 @@
                                     <span><i class="fa fa-globe"></i></span>
                                 </a>
                                 <div class="media-body">
-                                    <h3 class="media-heading">Web Development</h3> Open source platforms and content management systems are great tools that helps us to build dynamic websites with variety of features.
+                                    <h3 class="media-heading">Web Development</h3> Open source platforms and content management systems are great tools that helps us to build dynamic websites with variety of features. 
                                 </div>
                             </div>
                         </div>
@@ -91,6 +91,8 @@
                                 </a>
                                 <div class="media-body">
                                     <h3 class="media-heading">Corporate Training</h3> Delivering customised corporate training programs and hence all our workshops are as per the client’s requirement.
+									Just like nobody reads mathematics, nobody can learn programming by reading.
+									We do not believe in following slide shows for learning programming, process, domain, etc.
                                 </div>
                             </div>
                         </div>
@@ -102,7 +104,7 @@
                                     <span><i class="fa fa-desktop"></i></span>
                                 </a>
                                 <div class="media-body">
-                                    <h3 class="media-heading">IT Services & Training</h3> We provide, on the job technical training, we refer to it as industry training which is a span of three months for freshers and also laterals who are need to upgrade themselves to new technologies. Our trainings are not class room based trainings..
+                                    <h3 class="media-heading">IT Services & Training</h3> We want to be independent to serve our clients, we have a strong base for mentoring. We do mentor engineers from other companies and we provide on the job technical training, we refer to it as industry training for freshers and also laterals who need to upgrade themselves to new technologies. Our trainings are not class room based trainings.
                                 </div>
                             </div>
                         </div>
