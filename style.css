@@ -127,7 +127,7 @@ a:focus {
 }
 
 img {
-    max-width: 125%;
+    max-width: 100%;
     height: auto;
 }
 
@@ -4665,10 +4665,10 @@ div#sticker {
     position: absolute;
     right: 0;
     bottom: -62%;
-    transform: translateY(-100%);
-    -ms-transform: translateY(-100%);
+    /*transform: translateY(-100%);
+    -ms-transform: translateY(-100%);*/
     /* IE 9 */
-    -webkit-transform: translateY(-100%);
+    /*-webkit-transform: translateY(-100%);*/
     /* Chrome, Safari, Opera */
     transition: all 0.5s ease 0s;
     padding: 0 15px;
