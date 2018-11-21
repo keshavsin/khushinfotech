@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Khushi Infotech</title>
-    <meta name="description" content="">
+    <meta name="description" content="Khushi Infotech has the ability to provide simple solutions to complex problems with wide choice of technologies/platforms available">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
     ============================================ -->

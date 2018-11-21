@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Khushi Infotech</title>	
-    <meta name="description" content="">
+    <meta name="description" content="Start - Engaging for your digital needs, Start - Thriving with us, Start - Diversifying your brand. We convert your idea to a tech reality">
+    <meta name="keywords" content="Software, Development, Software Development, Training, Product Development, Customization, Custom Product Development, Corporate Training, Consulting, Software Consulting, Bangalore, Bengaluru">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
     ============================================ -->
