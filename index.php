@@ -82,7 +82,7 @@
                                       
                                     </li>
                                     <li>
-                                        <a id="our_work" href="software-platforms.php">Our Platform</a>
+                                        <a id="our_work" href="software-platforms.php">Platform</a>
                                        
                                     </li>
                                    
@@ -317,27 +317,27 @@
                 <div class="rc-carousel total-business" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-autoplay-timeout="10000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="2" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="2" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="3" data-r-medium-nav="true" data-r-medium-dots="false">
                     <div class="single-business">
                         <span><i class="fa fa-globe"></i></span>
-                        <h3><a href="#">Web Development</a></h3>
+                        <h3><a href="software-training-services.php">Web Development</a></h3>
                         <p>Open source platforms and content management systems are great tools that helps us to build dynamic websites with variety of features.</p>
                         <div class="read-more"><a href="software-training-services.php">Read More</a></div>
                     </div> 
                     <div class="single-business">
                         <span><i class="fa fa-tasks"></i></span>
-                        <h3><a href="#">IT Products</a></h3>
+                        <h3><a href="software-training-services.php">IT Products</a></h3>
                         <p>
 						Our Infra-structure service helps design, build and manage a highly flexible, scalable and reliable IT product.</p>
                         <div class="read-more"><a href="software-training-services.php">Read More</a></div>
                     </div>
                     <div class="single-business">
                        <span><i class="fa fa-th-large"></i></span>
-                        <h3><a href="#">Software Development</a></h3>
+                        <h3><a href="software-training-services.php">Software Development</a></h3>
                         <p>
 						Expertise on leading software development platforms like Java, PHP, NodeJS, Android, iOS, etc. to deliver enterprise and business software for business solutions.</p>
                         <div class="read-more"><a href="software-training-services.php">Read More</a></div>
                     </div>
 					<div class="single-business">
                         <span><i class="fa fa-desktop"></i></span>
-                        <h3><a href="#">IT Services & Training</a></h3>
+                        <h3><a href="software-training-services.php">IT Services & Training</a></h3>
                         <p>Knowing that the greatest asset of a software organization being the resources, we have the talent to build resources at every level of a product/application life cycle.</p>
                         <div class="read-more"><a href="software-training-services.php">Read More</a></div>
                     </div>
