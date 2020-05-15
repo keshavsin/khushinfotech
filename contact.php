@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                     <div class="main-contact-form contact-form">
-                        <form id='contact-form' role="form">
+                        <form id='contact-form' role="form" method="GET">
                             <fieldset>
                                 <div class="col-sm-6">
                                     <div class="form-group">

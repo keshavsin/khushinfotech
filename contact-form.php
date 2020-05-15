@@ -57,8 +57,8 @@ if($_POST)
 		$mail->Host = 'smtp.zoho.com';  //Sets the SMTP hosts of your Email hosting, this for Godaddy
 		$mail->Port = 587;        //Sets the default SMTP server port
 		$mail->SMTPAuth = true;       //Sets SMTP authentication. Utilizes the Username and Password variables		
-		$mail->Username = 'info@khushinfotech.com';     //Sets SMTP username
-		$mail->Password = 'khushi@777';     //Sets SMTP password
+		$mail->Username = SMTP_USER;     //Sets SMTP username
+		$mail->Password = SMTP_PASSWORD;     //Sets SMTP password
 		$mail->SMTPSecure = 'tls';       //Sets connection prefix. Options are "", "ssl" or "tls"
 		$mail->From = $_POST["email"];     //Sets the From email address for the message
 		$mail->FromName = $_POST["name"];    //Sets the From name of the message
@@ -70,7 +70,7 @@ if($_POST)
 		$mail->Body = $message;       //An HTML or plain text message body
 		if($mail->Send())        //Send an Email. Return true on success or false on error
 		{
-			$output = json_encode(array('type'=>'message', 'text' => 'Hi '.$name .', thank you for the comments. We will get back to you shortly.'));
+			$output = json_encode(array('type'=>'message', 'text' => 'Hi '.$name .', Thank you for the comments. We will get back to you shortly.'));
 	    die($output);
 			
 		}
